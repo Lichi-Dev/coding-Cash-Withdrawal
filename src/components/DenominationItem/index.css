@@ -1,0 +1,14 @@
+.denomination-button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  width: 150px;
+  height: 40px;
+  border-color: #c4c4c4;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  margin: 20px;
+}
+.denomination-list {
+  list-style: none;
+}
